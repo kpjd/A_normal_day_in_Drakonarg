@@ -6,7 +6,7 @@ Check the offical Microsoft dotnet website (https://dotnet.microsoft.com/) to do
 
 Second, how do you want to run the game?
 There are several ways to play it. I will describe two of them in detail.
-Extract the files in a folder of your choice. Make sure to remember the path of to this folder.
+Extract the files in a folder of your choice. Make sure to remember the path of this folder.
 E.g. C:/user/MyDocuments/A_normal_day_in_Drakonarg
 
 CMD/Bash:
