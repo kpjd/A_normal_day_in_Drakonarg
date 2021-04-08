@@ -1,0 +1,16 @@
+/home/user/CodingProjects/CSharp/investigationAdventure/bin/Debug/net5.0/investigatonAdventure
+/home/user/CodingProjects/CSharp/investigationAdventure/bin/Debug/net5.0/investigatonAdventure.deps.json
+/home/user/CodingProjects/CSharp/investigationAdventure/bin/Debug/net5.0/investigatonAdventure.runtimeconfig.json
+/home/user/CodingProjects/CSharp/investigationAdventure/bin/Debug/net5.0/investigatonAdventure.runtimeconfig.dev.json
+/home/user/CodingProjects/CSharp/investigationAdventure/bin/Debug/net5.0/investigatonAdventure.dll
+/home/user/CodingProjects/CSharp/investigationAdventure/bin/Debug/net5.0/ref/investigatonAdventure.dll
+/home/user/CodingProjects/CSharp/investigationAdventure/bin/Debug/net5.0/investigatonAdventure.pdb
+/home/user/CodingProjects/CSharp/investigationAdventure/obj/Debug/net5.0/investigatonAdventure.csprojAssemblyReference.cache
+/home/user/CodingProjects/CSharp/investigationAdventure/obj/Debug/net5.0/investigatonAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/CodingProjects/CSharp/investigationAdventure/obj/Debug/net5.0/investigatonAdventure.AssemblyInfoInputs.cache
+/home/user/CodingProjects/CSharp/investigationAdventure/obj/Debug/net5.0/investigatonAdventure.AssemblyInfo.cs
+/home/user/CodingProjects/CSharp/investigationAdventure/obj/Debug/net5.0/investigatonAdventure.csproj.CoreCompileInputs.cache
+/home/user/CodingProjects/CSharp/investigationAdventure/obj/Debug/net5.0/investigatonAdventure.dll
+/home/user/CodingProjects/CSharp/investigationAdventure/obj/Debug/net5.0/ref/investigatonAdventure.dll
+/home/user/CodingProjects/CSharp/investigationAdventure/obj/Debug/net5.0/investigatonAdventure.pdb
+/home/user/CodingProjects/CSharp/investigationAdventure/obj/Debug/net5.0/investigatonAdventure.genruntimeconfig.cache

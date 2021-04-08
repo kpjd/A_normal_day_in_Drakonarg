@@ -1,0 +1,16 @@
+/home/user/CodingProjects/CSharp/myFirstTextadventure/obj/Debug/net5.0/myFirstTextadventure.csprojAssemblyReference.cache
+/home/user/CodingProjects/CSharp/myFirstTextadventure/obj/Debug/net5.0/myFirstTextadventure.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/CodingProjects/CSharp/myFirstTextadventure/obj/Debug/net5.0/myFirstTextadventure.AssemblyInfoInputs.cache
+/home/user/CodingProjects/CSharp/myFirstTextadventure/obj/Debug/net5.0/myFirstTextadventure.AssemblyInfo.cs
+/home/user/CodingProjects/CSharp/myFirstTextadventure/obj/Debug/net5.0/myFirstTextadventure.csproj.CoreCompileInputs.cache
+/home/user/CodingProjects/CSharp/myFirstTextadventure/bin/Debug/net5.0/myFirstTextadventure
+/home/user/CodingProjects/CSharp/myFirstTextadventure/bin/Debug/net5.0/myFirstTextadventure.deps.json
+/home/user/CodingProjects/CSharp/myFirstTextadventure/bin/Debug/net5.0/myFirstTextadventure.runtimeconfig.json
+/home/user/CodingProjects/CSharp/myFirstTextadventure/bin/Debug/net5.0/myFirstTextadventure.runtimeconfig.dev.json
+/home/user/CodingProjects/CSharp/myFirstTextadventure/bin/Debug/net5.0/myFirstTextadventure.dll
+/home/user/CodingProjects/CSharp/myFirstTextadventure/bin/Debug/net5.0/ref/myFirstTextadventure.dll
+/home/user/CodingProjects/CSharp/myFirstTextadventure/bin/Debug/net5.0/myFirstTextadventure.pdb
+/home/user/CodingProjects/CSharp/myFirstTextadventure/obj/Debug/net5.0/myFirstTextadventure.dll
+/home/user/CodingProjects/CSharp/myFirstTextadventure/obj/Debug/net5.0/ref/myFirstTextadventure.dll
+/home/user/CodingProjects/CSharp/myFirstTextadventure/obj/Debug/net5.0/myFirstTextadventure.pdb
+/home/user/CodingProjects/CSharp/myFirstTextadventure/obj/Debug/net5.0/myFirstTextadventure.genruntimeconfig.cache
